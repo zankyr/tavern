@@ -23,6 +23,7 @@ source tavern-venv/bin/activate
 ```
 
 If the enviroment is running, in your terminal you should see the name you choose after every command:
+![Schermata 2020-12-19 alle 11 25 05](https://user-images.githubusercontent.com/503447/102687306-635d1a80-41ee-11eb-8a86-4e9db75cb46a.png)
 
 
 
